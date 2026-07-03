@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "sentence_internal": "据张三说，这件事伤害了自己。",
+    "sentence_external": "说到张三，这件事伤害了自己。",
+    "stimulus_internal": "据张三说，这件事伤害了自己。也就是说，据张三说，这件事伤害了张三。",
+    "stimulus_external": "说到张三，这件事伤害了自己。也就是说，说到张三，这件事伤害了张三。"
+  },
+  {
+    "id": 2,
+    "sentence_internal": "据张三说，这本书提醒了自己。",
+    "sentence_external": "说到张三，这本书提醒了自己。",
+    "stimulus_internal": "据张三说，这本书提醒了自己。也就是说，据张三说，这本书提醒了张三。",
+    "stimulus_external": "说到张三，这本书提醒了自己。也就是说，说到张三，这本书提醒了张三。"
+  },
+  {
+    "id": 3,
+    "sentence_internal": "据张三说，这个决定改变了自己。",
+    "sentence_external": "说到张三，这个决定改变了自己。",
+    "stimulus_internal": "据张三说，这个决定改变了自己。也就是说，据张三说，这个决定改变了张三。",
+    "stimulus_external": "说到张三，这个决定改变了自己。也就是说，说到张三，这个决定改变了张三。"
+  },
+  {
+    "id": 4,
+    "sentence_internal": "据张三说，这段经历磨练了自己。",
+    "sentence_external": "说到张三，这段经历磨练了自己。",
+    "stimulus_internal": "据张三说，这段经历磨练了自己。也就是说，据张三说，这段经历磨练了张三。",
+    "stimulus_external": "说到张三，这段经历磨练了自己。也就是说，说到张三，这段经历磨练了张三。"
+  },
+  {
+    "id": 5,
+    "sentence_internal": "据张三说，这个问题困扰了自己。",
+    "sentence_external": "说到张三，这个问题困扰了自己。",
+    "stimulus_internal": "据张三说，这个问题困扰了自己。也就是说，据张三说，这个问题困扰了张三。",
+    "stimulus_external": "说到张三，这个问题困扰了自己。也就是说，说到张三，这个问题困扰了张三。"
+  },
+  {
+    "id": 6,
+    "sentence_internal": "据张三说，这项任务挑战了自己。",
+    "sentence_external": "说到张三，这项任务挑战了自己。",
+    "stimulus_internal": "据张三说，这项任务挑战了自己。也就是说，据张三说，这项任务挑战了张三。",
+    "stimulus_external": "说到张三，这项任务挑战了自己。也就是说，说到张三，这项任务挑战了张三。"
+  },
+  {
+    "id": 7,
+    "sentence_internal": "据张三说，这个错误教训了自己。",
+    "sentence_external": "说到张三，这个错误教训了自己。",
+    "stimulus_internal": "据张三说，这个错误教训了自己。也就是说，据张三说，这个错误教训了张三。",
+    "stimulus_external": "说到张三，这个错误教训了自己。也就是说，说到张三，这个错误教训了张三。"
+  },
+  {
+    "id": 8,
+    "sentence_internal": "据张三说，这次经历启发了自己。",
+    "sentence_external": "说到张三，这次经历启发了自己。",
+    "stimulus_internal": "据张三说，这次经历启发了自己。也就是说，据张三说，这次经历启发了张三。",
+    "stimulus_external": "说到张三，这次经历启发了自己。也就是说，说到张三，这次经历启发了张三。"
+  },
+  {
+    "id": 9,
+    "sentence_internal": "据张三说，这份报告启发了自己。",
+    "sentence_external": "说到张三，这份报告启发了自己。",
+    "stimulus_internal": "据张三说，这份报告启发了自己。也就是说，据张三说，这份报告启发了张三。",
+    "stimulus_external": "说到张三，这份报告启发了自己。也就是说，说到张三，这份报告启发了张三。"
+  },
+  {
+    "id": 10,
+    "sentence_internal": "据张三说，这组数据震撼了自己。",
+    "sentence_external": "说到张三，这组数据震撼了自己。",
+    "stimulus_internal": "据张三说，这组数据震撼了自己。也就是说，据张三说，这组数据震撼了张三。",
+    "stimulus_external": "说到张三，这组数据震撼了自己。也就是说，说到张三，这组数据震撼了张三。"
+  },
+  {
+    "id": 11,
+    "sentence_internal": "据张三说，这项政策影响了自己。",
+    "sentence_external": "说到张三，这项政策影响了自己。",
+    "stimulus_internal": "据张三说，这项政策影响了自己。也就是说，据张三说，这项政策影响了张三。",
+    "stimulus_external": "说到张三，这项政策影响了自己。也就是说，说到张三，这项政策影响了张三。"
+  },
+  {
+    "id": 12,
+    "sentence_internal": "据张三说，这条法规警醒了自己。",
+    "sentence_external": "说到张三，这条法规警醒了自己。",
+    "stimulus_internal": "据张三说，这条法规警醒了自己。也就是说，据张三说，这条法规警醒了张三。",
+    "stimulus_external": "说到张三，这条法规警醒了自己。也就是说，说到张三，这条法规警醒了张三。"
+  },
+  {
+    "id": 13,
+    "sentence_internal": "据张三说，这件事情提醒了自己。",
+    "sentence_external": "说到张三，这件事情提醒了自己。",
+    "stimulus_internal": "据张三说，这件事情提醒了自己。也就是说，据张三说，这件事情提醒了张三。",
+    "stimulus_external": "说到张三，这件事情提醒了自己。也就是说，说到张三，这件事情提醒了张三。"
+  },
+  {
+    "id": 14,
+    "sentence_internal": "据张三说，这部电影打动了自己。",
+    "sentence_external": "说到张三，这部电影打动了自己。",
+    "stimulus_internal": "据张三说，这部电影打动了自己。也就是说，据张三说，这部电影打动了张三。",
+    "stimulus_external": "说到张三，这部电影打动了自己。也就是说，说到张三，这部电影打动了张三。"
+  },
+  {
+    "id": 15,
+    "sentence_internal": "据张三说，这段视频教育了自己。",
+    "sentence_external": "说到张三，这段视频教育了自己。",
+    "stimulus_internal": "据张三说，这段视频教育了自己。也就是说，据张三说，这段视频教育了张三。",
+    "stimulus_external": "说到张三，这段视频教育了自己。也就是说，说到张三，这段视频教育了张三。"
+  },
+  {
+    "id": 16,
+    "sentence_internal": "据张三说，这次事故警醒了自己。",
+    "sentence_external": "说到张三，这次事故警醒了自己。",
+    "stimulus_internal": "据张三说，这次事故警醒了自己。也就是说，据张三说，这次事故警醒了张三。",
+    "stimulus_external": "说到张三，这次事故警醒了自己。也就是说，说到张三，这次事故警醒了张三。"
+  },
+  {
+    "id": 17,
+    "sentence_internal": "据张三说，这项研究激励了自己。",
+    "sentence_external": "说到张三，这项研究激励了自己。",
+    "stimulus_internal": "据张三说，这项研究激励了自己。也就是说，据张三说，这项研究激励了张三。",
+    "stimulus_external": "说到张三，这项研究激励了自己。也就是说，说到张三，这项研究激励了张三。"
+  },
+  {
+    "id": 18,
+    "sentence_internal": "据张三说，这则新闻震撼了自己。",
+    "sentence_external": "说到张三，这则新闻震撼了自己。",
+    "stimulus_internal": "据张三说，这则新闻震撼了自己。也就是说，据张三说，这则新闻震撼了张三。",
+    "stimulus_external": "说到张三，这则新闻震撼了自己。也就是说，说到张三，这则新闻震撼了张三。"
+  },
+  {
+    "id": 19,
+    "sentence_internal": "据张三说，这本指南帮助了自己。",
+    "sentence_external": "说到张三，这本指南帮助了自己。",
+    "stimulus_internal": "据张三说，这本指南帮助了自己。也就是说，据张三说，这本指南帮助了张三。",
+    "stimulus_external": "说到张三，这本指南帮助了自己。也就是说，说到张三，这本指南帮助了张三。"
+  },
+  {
+    "id": 20,
+    "sentence_internal": "据张三说，这份材料启发了自己。",
+    "sentence_external": "说到张三，这份材料启发了自己。",
+    "stimulus_internal": "据张三说，这份材料启发了自己。也就是说，据张三说，这份材料启发了张三。",
+    "stimulus_external": "说到张三，这份材料启发了自己。也就是说，说到张三，这份材料启发了张三。"
+  },
+  {
+    "id": 21,
+    "sentence_internal": "据张三说，这件作品启迪了自己。",
+    "sentence_external": "说到张三，这件作品启迪了自己。",
+    "stimulus_internal": "据张三说，这件作品启迪了自己。也就是说，据张三说，这件作品启迪了张三。",
+    "stimulus_external": "说到张三，这件作品启迪了自己。也就是说，说到张三，这件作品启迪了张三。"
+  },
+  {
+    "id": 22,
+    "sentence_internal": "据张三说，这项发现鼓舞了自己。",
+    "sentence_external": "说到张三，这项发现鼓舞了自己。",
+    "stimulus_internal": "据张三说，这项发现鼓舞了自己。也就是说，据张三说，这项发现鼓舞了张三。",
+    "stimulus_external": "说到张三，这项发现鼓舞了自己。也就是说，说到张三，这项发现鼓舞了张三。"
+  },
+  {
+    "id": 23,
+    "sentence_internal": "据张三说，这篇文章启发了自己。",
+    "sentence_external": "说到张三，这篇文章启发了自己。",
+    "stimulus_internal": "据张三说，这篇文章启发了自己。也就是说，据张三说，这篇文章启发了张三。",
+    "stimulus_external": "说到张三，这篇文章启发了自己。也就是说，说到张三，这篇文章启发了张三。"
+  },
+  {
+    "id": 24,
+    "sentence_internal": "据张三说，这次测试考验了自己。",
+    "sentence_external": "说到张三，这次测试考验了自己。",
+    "stimulus_internal": "据张三说，这次测试考验了自己。也就是说，据张三说，这次测试考验了张三。",
+    "stimulus_external": "说到张三，这次测试考验了自己。也就是说，说到张三，这次测试考验了张三。"
+  },
+  {
+    "id": 25,
+    "sentence_internal": "据张三说，这份合同约束了自己。",
+    "sentence_external": "说到张三，这份合同约束了自己。",
+    "stimulus_internal": "据张三说，这份合同约束了自己。也就是说，据张三说，这份合同约束了张三。",
+    "stimulus_external": "说到张三，这份合同约束了自己。也就是说，说到张三，这份合同约束了张三。"
+  },
+  {
+    "id": 26,
+    "sentence_internal": "据张三说，这本日志记录了自己。",
+    "sentence_external": "说到张三，这本日志记录了自己。",
+    "stimulus_internal": "据张三说，这本日志记录了自己。也就是说，据张三说，这本日志记录了张三。",
+    "stimulus_external": "说到张三，这本日志记录了自己。也就是说，说到张三，这本日志记录了张三。"
+  },
+  {
+    "id": 27,
+    "sentence_internal": "据张三说，这块拼图启发了自己。",
+    "sentence_external": "说到张三，这块拼图启发了自己。",
+    "stimulus_internal": "据张三说，这块拼图启发了自己。也就是说，据张三说，这块拼图启发了张三。",
+    "stimulus_external": "说到张三，这块拼图启发了自己。也就是说，说到张三，这块拼图启发了张三。"
+  },
+  {
+    "id": 28,
+    "sentence_internal": "据张三说，这道题目挑战了自己。",
+    "sentence_external": "说到张三，这道题目挑战了自己。",
+    "stimulus_internal": "据张三说，这道题目挑战了自己。也就是说，据张三说，这道题目挑战了张三。",
+    "stimulus_external": "说到张三，这道题目挑战了自己。也就是说，说到张三，这道题目挑战了张三。"
+  },
+  {
+    "id": 29,
+    "sentence_internal": "据张三说，这张照片唤醒了自己。",
+    "sentence_external": "说到张三，这张照片唤醒了自己。",
+    "stimulus_internal": "据张三说，这张照片唤醒了自己。也就是说，据张三说，这张照片唤醒了张三。",
+    "stimulus_external": "说到张三，这张照片唤醒了自己。也就是说，说到张三，这张照片唤醒了张三。"
+  },
+  {
+    "id": 30,
+    "sentence_internal": "据张三说，这份礼物感动了自己。",
+    "sentence_external": "说到张三，这份礼物感动了自己。",
+    "stimulus_internal": "据张三说，这份礼物感动了自己。也就是说，据张三说，这份礼物感动了张三。",
+    "stimulus_external": "说到张三，这份礼物感动了自己。也就是说，说到张三，这份礼物感动了张三。"
+  },
+  {
+    "id": 31,
+    "sentence_internal": "据张三说，这次机会鼓舞了自己。",
+    "sentence_external": "说到张三，这次机会鼓舞了自己。",
+    "stimulus_internal": "据张三说，这次机会鼓舞了自己。也就是说，据张三说，这次机会鼓舞了张三。",
+    "stimulus_external": "说到张三，这次机会鼓舞了自己。也就是说，说到张三，这次机会鼓舞了张三。"
+  },
+  {
+    "id": 32,
+    "sentence_internal": "据张三说，这份清单提醒了自己。",
+    "sentence_external": "说到张三，这份清单提醒了自己。",
+    "stimulus_internal": "据张三说，这份清单提醒了自己。也就是说，据张三说，这份清单提醒了张三。",
+    "stimulus_external": "说到张三，这份清单提醒了自己。也就是说，说到张三，这份清单提醒了张三。"
+  },
+  {
+    "id": 33,
+    "sentence_internal": "据张三说，这项计划耽误了自己。",
+    "sentence_external": "说到张三，这项计划耽误了自己。",
+    "stimulus_internal": "据张三说，这项计划耽误了自己。也就是说，据张三说，这项计划耽误了张三。",
+    "stimulus_external": "说到张三，这项计划耽误了自己。也就是说，说到张三，这项计划耽误了张三。"
+  },
+  {
+    "id": 34,
+    "sentence_internal": "据张三说，这段历史启迪了自己。",
+    "sentence_external": "说到张三，这段历史启迪了自己。",
+    "stimulus_internal": "据张三说，这段历史启迪了自己。也就是说，据张三说，这段历史启迪了张三。",
+    "stimulus_external": "说到张三，这段历史启迪了自己。也就是说，说到张三，这段历史启迪了张三。"
+  },
+  {
+    "id": 35,
+    "sentence_internal": "据张三说，这笔支出提醒了自己。",
+    "sentence_external": "说到张三，这笔支出提醒了自己。",
+    "stimulus_internal": "据张三说，这笔支出提醒了自己。也就是说，据张三说，这笔支出提醒了张三。",
+    "stimulus_external": "说到张三，这笔支出提醒了自己。也就是说，说到张三，这笔支出提醒了张三。"
+  },
+  {
+    "id": 36,
+    "sentence_internal": "据张三说，这条评论激励了自己。",
+    "sentence_external": "说到张三，这条评论激励了自己。",
+    "stimulus_internal": "据张三说，这条评论激励了自己。也就是说，据张三说，这条评论激励了张三。",
+    "stimulus_external": "说到张三，这条评论激励了自己。也就是说，说到张三，这条评论激励了张三。"
+  },
+  {
+    "id": 37,
+    "sentence_internal": "据张三说，这张清单启发了自己。",
+    "sentence_external": "说到张三，这张清单启发了自己。",
+    "stimulus_internal": "据张三说，这张清单启发了自己。也就是说，据张三说，这张清单启发了张三。",
+    "stimulus_external": "说到张三，这张清单启发了自己。也就是说，说到张三，这张清单启发了张三。"
+  },
+  {
+    "id": 38,
+    "sentence_internal": "据张三说，这次尝试锻炼了自己。",
+    "sentence_external": "说到张三，这次尝试锻炼了自己。",
+    "stimulus_internal": "据张三说，这次尝试锻炼了自己。也就是说，据张三说，这次尝试锻炼了张三。",
+    "stimulus_external": "说到张三，这次尝试锻炼了自己。也就是说，说到张三，这次尝试锻炼了张三。"
+  },
+  {
+    "id": 39,
+    "sentence_internal": "据张三说，这项研究扩展了自己。",
+    "sentence_external": "说到张三，这项研究扩展了自己。",
+    "stimulus_internal": "据张三说，这项研究扩展了自己。也就是说，据张三说，这项研究扩展了张三。",
+    "stimulus_external": "说到张三，这项研究扩展了自己。也就是说，说到张三，这项研究扩展了张三。"
+  },
+  {
+    "id": 40,
+    "sentence_internal": "据张三说，这类问题困扰了自己。",
+    "sentence_external": "说到张三，这类问题困扰了自己。",
+    "stimulus_internal": "据张三说，这类问题困扰了自己。也就是说，据张三说，这类问题困扰了张三。",
+    "stimulus_external": "说到张三，这类问题困扰了自己。也就是说，说到张三，这类问题困扰了张三。"
+  },
+  {
+    "id": 41,
+    "sentence_internal": "据张三说，这篇评论影响了自己。",
+    "sentence_external": "说到张三，这篇评论影响了自己。",
+    "stimulus_internal": "据张三说，这篇评论影响了自己。也就是说，据张三说，这篇评论影响了张三。",
+    "stimulus_external": "说到张三，这篇评论影响了自己。也就是说，说到张三，这篇评论影响了张三。"
+  },
+  {
+    "id": 42,
+    "sentence_internal": "据张三说，这项改革鼓舞了自己。",
+    "sentence_external": "说到张三，这项改革鼓舞了自己。",
+    "stimulus_internal": "据张三说，这项改革鼓舞了自己。也就是说，据张三说，这项改革鼓舞了张三。",
+    "stimulus_external": "说到张三，这项改革鼓舞了自己。也就是说，说到张三，这项改革鼓舞了张三。"
+  },
+  {
+    "id": 43,
+    "sentence_internal": "据张三说，这张地图帮助了自己。",
+    "sentence_external": "说到张三，这张地图帮助了自己。",
+    "stimulus_internal": "据张三说，这张地图帮助了自己。也就是说，据张三说，这张地图帮助了张三。",
+    "stimulus_external": "说到张三，这张地图帮助了自己。也就是说，说到张三，这张地图帮助了张三。"
+  },
+  {
+    "id": 44,
+    "sentence_internal": "据张三说，这段话触动了自己。",
+    "sentence_external": "说到张三，这段话触动了自己。",
+    "stimulus_internal": "据张三说，这段话触动了自己。也就是说，据张三说，这段话触动了张三。",
+    "stimulus_external": "说到张三，这段话触动了自己。也就是说，说到张三，这段话触动了张三。"
+  },
+  {
+    "id": 45,
+    "sentence_internal": "据张三说，这篇评论批评了自己。",
+    "sentence_external": "说到张三，这篇评论批评了自己。",
+    "stimulus_internal": "据张三说，这篇评论批评了自己。也就是说，据张三说，这篇评论批评了张三。",
+    "stimulus_external": "说到张三，这篇评论批评了自己。也就是说，说到张三，这篇评论批评了张三。"
+  },
+  {
+    "id": 46,
+    "sentence_internal": "据张三说，这份建议启发了自己。",
+    "sentence_external": "说到张三，这份建议启发了自己。",
+    "stimulus_internal": "据张三说，这份建议启发了自己。也就是说，据张三说，这份建议启发了张三。",
+    "stimulus_external": "说到张三，这份建议启发了自己。也就是说，说到张三，这份建议启发了张三。"
+  },
+  {
+    "id": 47,
+    "sentence_internal": "据张三说，这项工程影响了自己。",
+    "sentence_external": "说到张三，这项工程影响了自己。",
+    "stimulus_internal": "据张三说，这项工程影响了自己。也就是说，据张三说，这项工程影响了张三。",
+    "stimulus_external": "说到张三，这项工程影响了自己。也就是说，说到张三，这项工程影响了张三。"
+  },
+  {
+    "id": 48,
+    "sentence_internal": "据张三说，这份作业考验了自己。",
+    "sentence_external": "说到张三，这份作业考验了自己。",
+    "stimulus_internal": "据张三说，这份作业考验了自己。也就是说，据张三说，这份作业考验了张三。",
+    "stimulus_external": "说到张三，这份作业考验了自己。也就是说，说到张三，这份作业考验了张三。"
+  },
+  {
+    "id": 49,
+    "sentence_internal": "据张三说，这份嘱托提醒了自己。",
+    "sentence_external": "说到张三，这份嘱托提醒了自己。",
+    "stimulus_internal": "据张三说，这份嘱托提醒了自己。也就是说，据张三说，这份嘱托提醒了张三。",
+    "stimulus_external": "说到张三，这份嘱托提醒了自己。也就是说，说到张三，这份嘱托提醒了张三。"
+  },
+  {
+    "id": 50,
+    "sentence_internal": "据张三说，这块石碑纪念了自己。",
+    "sentence_external": "说到张三，这块石碑纪念了自己。",
+    "stimulus_internal": "据张三说，这块石碑纪念了自己。也就是说，据张三说，这块石碑纪念了张三。",
+    "stimulus_external": "说到张三，这块石碑纪念了自己。也就是说，说到张三，这块石碑纪念了张三。"
+  },
+  {
+    "id": 51,
+    "sentence_internal": "据张三说，这段记录证明了自己。",
+    "sentence_external": "说到张三，这段记录证明了自己。",
+    "stimulus_internal": "据张三说，这段记录证明了自己。也就是说，据张三说，这段记录证明了张三。",
+    "stimulus_external": "说到张三，这段记录证明了自己。也就是说，说到张三，这段记录证明了张三。"
+  },
+  {
+    "id": 52,
+    "sentence_internal": "据张三说，这批材料启发了自己。",
+    "sentence_external": "说到张三，这批材料启发了自己。",
+    "stimulus_internal": "据张三说，这批材料启发了自己。也就是说，据张三说，这批材料启发了张三。",
+    "stimulus_external": "说到张三，这批材料启发了自己。也就是说，说到张三，这批材料启发了张三。"
+  },
+  {
+    "id": 53,
+    "sentence_internal": "据张三说，这张表格提醒了自己。",
+    "sentence_external": "说到张三，这张表格提醒了自己。",
+    "stimulus_internal": "据张三说，这张表格提醒了自己。也就是说，据张三说，这张表格提醒了张三。",
+    "stimulus_external": "说到张三，这张表格提醒了自己。也就是说，说到张三，这张表格提醒了张三。"
+  },
+  {
+    "id": 54,
+    "sentence_internal": "据张三说，这席观点挑战了自己。",
+    "sentence_external": "说到张三，这席观点挑战了自己。",
+    "stimulus_internal": "据张三说，这席观点挑战了自己。也就是说，据张三说，这席观点挑战了张三。",
+    "stimulus_external": "说到张三，这席观点挑战了自己。也就是说，说到张三，这席观点挑战了张三。"
+  },
+  {
+    "id": 55,
+    "sentence_internal": "据张三说，这幅画触动了自己。",
+    "sentence_external": "说到张三，这幅画触动了自己。",
+    "stimulus_internal": "据张三说，这幅画触动了自己。也就是说，据张三说，这幅画触动了张三。",
+    "stimulus_external": "说到张三，这幅画触动了自己。也就是说，说到张三，这幅画触动了张三。"
+  },
+  {
+    "id": 56,
+    "sentence_internal": "据张三说，这些规则限制了自己。",
+    "sentence_external": "说到张三，这些规则限制了自己。",
+    "stimulus_internal": "据张三说，这些规则限制了自己。也就是说，据张三说，这些规则限制了张三。",
+    "stimulus_external": "说到张三，这些规则限制了自己。也就是说，说到张三，这些规则限制了张三。"
+  },
+  {
+    "id": 57,
+    "sentence_internal": "据张三说，这个结论困惑了自己。",
+    "sentence_external": "说到张三，这个结论困惑了自己。",
+    "stimulus_internal": "据张三说，这个结论困惑了自己。也就是说，据张三说，这个结论困惑了张三。",
+    "stimulus_external": "说到张三，这个结论困惑了自己。也就是说，说到张三，这个结论困惑了张三。"
+  },
+  {
+    "id": 58,
+    "sentence_internal": "据张三说，这类现象困惑了自己。",
+    "sentence_external": "说到张三，这类现象困惑了自己。",
+    "stimulus_internal": "据张三说，这类现象困惑了自己。也就是说，据张三说，这类现象困惑了张三。",
+    "stimulus_external": "说到张三，这类现象困惑了自己。也就是说，说到张三，这类现象困惑了张三。"
+  },
+  {
+    "id": 59,
+    "sentence_internal": "据张三说，这份总结提醒了自己。",
+    "sentence_external": "说到张三，这份总结提醒了自己。",
+    "stimulus_internal": "据张三说，这份总结提醒了自己。也就是说，据张三说，这份总结提醒了张三。",
+    "stimulus_external": "说到张三，这份总结提醒了自己。也就是说，说到张三，这份总结提醒了张三。"
+  },
+  {
+    "id": 60,
+    "sentence_internal": "据张三说，这条线索启发了自己。",
+    "sentence_external": "说到张三，这条线索启发了自己。",
+    "stimulus_internal": "据张三说，这条线索启发了自己。也就是说，据张三说，这条线索启发了张三。",
+    "stimulus_external": "说到张三，这条线索启发了自己。也就是说，说到张三，这条线索启发了张三。"
+  },
+  {
+    "id": 61,
+    "sentence_internal": "据张三说，这些事实证明了自己。",
+    "sentence_external": "说到张三，这些事实证明了自己。",
+    "stimulus_internal": "据张三说，这些事实证明了自己。也就是说，据张三说，这些事实证明了张三。",
+    "stimulus_external": "说到张三，这些事实证明了自己。也就是说，说到张三，这些事实证明了张三。"
+  },
+  {
+    "id": 62,
+    "sentence_internal": "据张三说，这本手册指导了自己。",
+    "sentence_external": "说到张三，这本手册指导了自己。",
+    "stimulus_internal": "据张三说，这本手册指导了自己。也就是说，据张三说，这本手册指导了张三。",
+    "stimulus_external": "说到张三，这本手册指导了自己。也就是说，说到张三，这本手册指导了张三。"
+  },
+  {
+    "id": 63,
+    "sentence_internal": "据张三说，这项技术震撼了自己。",
+    "sentence_external": "说到张三，这项技术震撼了自己。",
+    "stimulus_internal": "据张三说，这项技术震撼了自己。也就是说，据张三说，这项技术震撼了张三。",
+    "stimulus_external": "说到张三，这项技术震撼了自己。也就是说，说到张三，这项技术震撼了张三。"
+  },
+  {
+    "id": 64,
+    "sentence_internal": "据张三说，这种方法影响了自己。",
+    "sentence_external": "说到张三，这种方法影响了自己。",
+    "stimulus_internal": "据张三说，这种方法影响了自己。也就是说，据张三说，这种方法影响了张三。",
+    "stimulus_external": "说到张三，这种方法影响了自己。也就是说，说到张三，这种方法影响了张三。"
+  },
+  {
+    "id": 65,
+    "sentence_internal": "据张三说，这项任务激励了自己。",
+    "sentence_external": "说到张三，这项任务激励了自己。",
+    "stimulus_internal": "据张三说，这项任务激励了自己。也就是说，据张三说，这项任务激励了张三。",
+    "stimulus_external": "说到张三，这项任务激励了自己。也就是说，说到张三，这项任务激励了张三。"
+  },
+  {
+    "id": 66,
+    "sentence_internal": "据张三说，这些提示提醒了自己。",
+    "sentence_external": "说到张三，这些提示提醒了自己。",
+    "stimulus_internal": "据张三说，这些提示提醒了自己。也就是说，据张三说，这些提示提醒了张三。",
+    "stimulus_external": "说到张三，这些提示提醒了自己。也就是说，说到张三，这些提示提醒了张三。"
+  },
+  {
+    "id": 67,
+    "sentence_internal": "据张三说，这条建议鼓励了自己。",
+    "sentence_external": "说到张三，这条建议鼓励了自己。",
+    "stimulus_internal": "据张三说，这条建议鼓励了自己。也就是说，据张三说，这条建议鼓励了张三。",
+    "stimulus_external": "说到张三，这条建议鼓励了自己。也就是说，说到张三，这条建议鼓励了张三。"
+  },
+  {
+    "id": 68,
+    "sentence_internal": "据张三说，这本教材帮助了自己。",
+    "sentence_external": "说到张三，这本教材帮助了自己。",
+    "stimulus_internal": "据张三说，这本教材帮助了自己。也就是说，据张三说，这本教材帮助了张三。",
+    "stimulus_external": "说到张三，这本教材帮助了自己。也就是说，说到张三，这本教材帮助了张三。"
+  },
+  {
+    "id": 69,
+    "sentence_internal": "据张三说，这项规范规范了自己。",
+    "sentence_external": "说到张三，这项规范规范了自己。",
+    "stimulus_internal": "据张三说，这项规范规范了自己。也就是说，据张三说，这项规范规范了张三。",
+    "stimulus_external": "说到张三，这项规范规范了自己。也就是说，说到张三，这项规范规范了张三。"
+  },
+  {
+    "id": 70,
+    "sentence_internal": "据张三说，这篇说明阐明了自己。",
+    "sentence_external": "说到张三，这篇说明阐明了自己。",
+    "stimulus_internal": "据张三说，这篇说明阐明了自己。也就是说，据张三说，这篇说明阐明了张三。",
+    "stimulus_external": "说到张三，这篇说明阐明了自己。也就是说，说到张三，这篇说明阐明了张三。"
+  },
+  {
+    "id": 71,
+    "sentence_internal": "据张三说，这段序言介绍了自己。",
+    "sentence_external": "说到张三，这段序言介绍了自己。",
+    "stimulus_internal": "据张三说，这段序言介绍了自己。也就是说，据张三说，这段序言介绍了张三。",
+    "stimulus_external": "说到张三，这段序言介绍了自己。也就是说，说到张三，这段序言介绍了张三。"
+  },
+  {
+    "id": 72,
+    "sentence_internal": "据张三说，这台机器改变了自己。",
+    "sentence_external": "说到张三，这台机器改变了自己。",
+    "stimulus_internal": "据张三说，这台机器改变了自己。也就是说，据张三说，这台机器改变了张三。",
+    "stimulus_external": "说到张三，这台机器改变了自己。也就是说，说到张三，这台机器改变了张三。"
+  },
+  {
+    "id": 73,
+    "sentence_internal": "据张三说，这场讨论启发了自己。",
+    "sentence_external": "说到张三，这场讨论启发了自己。",
+    "stimulus_internal": "据张三说，这场讨论启发了自己。也就是说，据张三说，这场讨论启发了张三。",
+    "stimulus_external": "说到张三，这场讨论启发了自己。也就是说，说到张三，这场讨论启发了张三。"
+  },
+  {
+    "id": 74,
+    "sentence_internal": "据张三说，这项调查揭露了自己。",
+    "sentence_external": "说到张三，这项调查揭露了自己。",
+    "stimulus_internal": "据张三说，这项调查揭露了自己。也就是说，据张三说，这项调查揭露了张三。",
+    "stimulus_external": "说到张三，这项调查揭露了自己。也就是说，说到张三，这项调查揭露了张三。"
+  },
+  {
+    "id": 75,
+    "sentence_internal": "据张三说，这道题考验了自己。",
+    "sentence_external": "说到张三，这道题考验了自己。",
+    "stimulus_internal": "据张三说，这道题考验了自己。也就是说，据张三说，这道题考验了张三。",
+    "stimulus_external": "说到张三，这道题考验了自己。也就是说，说到张三，这道题考验了张三。"
+  },
+  {
+    "id": 76,
+    "sentence_internal": "据张三说，这笔预算限制了自己。",
+    "sentence_external": "说到张三，这笔预算限制了自己。",
+    "stimulus_internal": "据张三说，这笔预算限制了自己。也就是说，据张三说，这笔预算限制了张三。",
+    "stimulus_external": "说到张三，这笔预算限制了自己。也就是说，说到张三，这笔预算限制了张三。"
+  },
+  {
+    "id": 77,
+    "sentence_internal": "据张三说，这份名单肯定了自己。",
+    "sentence_external": "说到张三，这份名单肯定了自己。",
+    "stimulus_internal": "据张三说，这份名单肯定了自己。也就是说，据张三说，这份名单肯定了张三。",
+    "stimulus_external": "说到张三，这份名单肯定了自己。也就是说，说到张三，这份名单肯定了张三。"
+  },
+  {
+    "id": 78,
+    "sentence_internal": "据张三说，这些规范约束了自己。",
+    "sentence_external": "说到张三，这些规范约束了自己。",
+    "stimulus_internal": "据张三说，这些规范约束了自己。也就是说，据张三说，这些规范约束了张三。",
+    "stimulus_external": "说到张三，这些规范约束了自己。也就是说，说到张三，这些规范约束了张三。"
+  },
+  {
+    "id": 79,
+    "sentence_internal": "据张三说，这段总结警示了自己。",
+    "sentence_external": "说到张三，这段总结警示了自己。",
+    "stimulus_internal": "据张三说，这段总结警示了自己。也就是说，据张三说，这段总结警示了张三。",
+    "stimulus_external": "说到张三，这段总结警示了自己。也就是说，说到张三，这段总结警示了张三。"
+  },
+  {
+    "id": 80,
+    "sentence_internal": "据张三说，这项计划阻碍了自己。",
+    "sentence_external": "说到张三，这项计划阻碍了自己。",
+    "stimulus_internal": "据张三说，这项计划阻碍了自己。也就是说，据张三说，这项计划阻碍了张三。",
+    "stimulus_external": "说到张三，这项计划阻碍了自己。也就是说，说到张三，这项计划阻碍了张三。"
+  },
+  {
+    "id": 81,
+    "sentence_internal": "据张三说，这条路线改变了自己。",
+    "sentence_external": "说到张三，这条路线改变了自己。",
+    "stimulus_internal": "据张三说，这条路线改变了自己。也就是说，据张三说，这条路线改变了张三。",
+    "stimulus_external": "说到张三，这条路线改变了自己。也就是说，说到张三，这条路线改变了张三。"
+  },
+  {
+    "id": 82,
+    "sentence_internal": "据张三说，这种制度塑造了自己。",
+    "sentence_external": "说到张三，这种制度塑造了自己。",
+    "stimulus_internal": "据张三说，这种制度塑造了自己。也就是说，据张三说，这种制度塑造了张三。",
+    "stimulus_external": "说到张三，这种制度塑造了自己。也就是说，说到张三，这种制度塑造了张三。"
+  },
+  {
+    "id": 83,
+    "sentence_internal": "据张三说，这条规定限制了自己。",
+    "sentence_external": "说到张三，这条规定限制了自己。",
+    "stimulus_internal": "据张三说，这条规定限制了自己。也就是说，据张三说，这条规定限制了张三。",
+    "stimulus_external": "说到张三，这条规定限制了自己。也就是说，说到张三，这条规定限制了张三。"
+  },
+  {
+    "id": 84,
+    "sentence_internal": "据张三说，这项成果鼓舞了自己。",
+    "sentence_external": "说到张三，这项成果鼓舞了自己。",
+    "stimulus_internal": "据张三说，这项成果鼓舞了自己。也就是说，据张三说，这项成果鼓舞了张三。",
+    "stimulus_external": "说到张三，这项成果鼓舞了自己。也就是说，说到张三，这项成果鼓舞了张三。"
+  },
+  {
+    "id": 85,
+    "sentence_internal": "据张三说，这篇报告鼓舞了自己。",
+    "sentence_external": "说到张三，这篇报告鼓舞了自己。",
+    "stimulus_internal": "据张三说，这篇报告鼓舞了自己。也就是说，据张三说，这篇报告鼓舞了张三。",
+    "stimulus_external": "说到张三，这篇报告鼓舞了自己。也就是说，说到张三，这篇报告鼓舞了张三。"
+  },
+  {
+    "id": 86,
+    "sentence_internal": "据张三说，这个方案启发了自己。",
+    "sentence_external": "说到张三，这个方案启发了自己。",
+    "stimulus_internal": "据张三说，这个方案启发了自己。也就是说，据张三说，这个方案启发了张三。",
+    "stimulus_external": "说到张三，这个方案启发了自己。也就是说，说到张三，这个方案启发了张三。"
+  },
+  {
+    "id": 87,
+    "sentence_internal": "据张三说，这种安排限制了自己。",
+    "sentence_external": "说到张三，这种安排限制了自己。",
+    "stimulus_internal": "据张三说，这种安排限制了自己。也就是说，据张三说，这种安排限制了张三。",
+    "stimulus_external": "说到张三，这种安排限制了自己。也就是说，说到张三，这种安排限制了张三。"
+  },
+  {
+    "id": 88,
+    "sentence_internal": "据张三说，这条策略指引了自己。",
+    "sentence_external": "说到张三，这条策略指引了自己。",
+    "stimulus_internal": "据张三说，这条策略指引了自己。也就是说，据张三说，这条策略指引了张三。",
+    "stimulus_external": "说到张三，这条策略指引了自己。也就是说，说到张三，这条策略指引了张三。"
+  },
+  {
+    "id": 89,
+    "sentence_internal": "据张三说，这项改革激励了自己。",
+    "sentence_external": "说到张三，这项改革激励了自己。",
+    "stimulus_internal": "据张三说，这项改革激励了自己。也就是说，据张三说，这项改革激励了张三。",
+    "stimulus_external": "说到张三，这项改革激励了自己。也就是说，说到张三，这项改革激励了张三。"
+  },
+  {
+    "id": 90,
+    "sentence_internal": "据张三说，这项标准规范了自己。",
+    "sentence_external": "说到张三，这项标准规范了自己。",
+    "stimulus_internal": "据张三说，这项标准规范了自己。也就是说，据张三说，这项标准规范了张三。",
+    "stimulus_external": "说到张三，这项标准规范了自己。也就是说，说到张三，这项标准规范了张三。"
+  },
+  {
+    "id": 91,
+    "sentence_internal": "据张三说，这本指南引导了自己。",
+    "sentence_external": "说到张三，这本指南引导了自己。",
+    "stimulus_internal": "据张三说，这本指南引导了自己。也就是说，据张三说，这本指南引导了张三。",
+    "stimulus_external": "说到张三，这本指南引导了自己。也就是说，说到张三，这本指南引导了张三。"
+  },
+  {
+    "id": 92,
+    "sentence_internal": "据张三说，这条路径启发了自己。",
+    "sentence_external": "说到张三，这条路径启发了自己。",
+    "stimulus_internal": "据张三说，这条路径启发了自己。也就是说，据张三说，这条路径启发了张三。",
+    "stimulus_external": "说到张三，这条路径启发了自己。也就是说，说到张三，这条路径启发了张三。"
+  },
+  {
+    "id": 93,
+    "sentence_internal": "据张三说，这类策略帮助了自己。",
+    "sentence_external": "说到张三，这类策略帮助了自己。",
+    "stimulus_internal": "据张三说，这类策略帮助了自己。也就是说，据张三说，这类策略帮助了张三。",
+    "stimulus_external": "说到张三，这类策略帮助了自己。也就是说，说到张三，这类策略帮助了张三。"
+  },
+  {
+    "id": 94,
+    "sentence_internal": "据张三说，这本日记记录了自己。",
+    "sentence_external": "说到张三，这本日记记录了自己。",
+    "stimulus_internal": "据张三说，这本日记记录了自己。也就是说，据张三说，这本日记记录了张三。",
+    "stimulus_external": "说到张三，这本日记记录了自己。也就是说，说到张三，这本日记记录了张三。"
+  },
+  {
+    "id": 95,
+    "sentence_internal": "据张三说，这项活动鼓舞了自己。",
+    "sentence_external": "说到张三，这项活动鼓舞了自己。",
+    "stimulus_internal": "据张三说，这项活动鼓舞了自己。也就是说，据张三说，这项活动鼓舞了张三。",
+    "stimulus_external": "说到张三，这项活动鼓舞了自己。也就是说，说到张三，这项活动鼓舞了张三。"
+  },
+  {
+    "id": 96,
+    "sentence_internal": "据张三说，这项评估考核了自己。",
+    "sentence_external": "说到张三，这项评估考核了自己。",
+    "stimulus_internal": "据张三说，这项评估考核了自己。也就是说，据张三说，这项评估考核了张三。",
+    "stimulus_external": "说到张三，这项评估考核了自己。也就是说，说到张三，这项评估考核了张三。"
+  },
+  {
+    "id": 97,
+    "sentence_internal": "据张三说，这条建议启迪了自己。",
+    "sentence_external": "说到张三，这条建议启迪了自己。",
+    "stimulus_internal": "据张三说，这条建议启迪了自己。也就是说，据张三说，这条建议启迪了张三。",
+    "stimulus_external": "说到张三，这条建议启迪了自己。也就是说，说到张三，这条建议启迪了张三。"
+  },
+  {
+    "id": 98,
+    "sentence_internal": "据张三说，这项分析启迪了自己。",
+    "sentence_external": "说到张三，这项分析启迪了自己。",
+    "stimulus_internal": "据张三说，这项分析启迪了自己。也就是说，据张三说，这项分析启迪了张三。",
+    "stimulus_external": "说到张三，这项分析启迪了自己。也就是说，说到张三，这项分析启迪了张三。"
+  },
+  {
+    "id": 99,
+    "sentence_internal": "据张三说，这项细节提醒了自己。",
+    "sentence_external": "说到张三，这项细节提醒了自己。",
+    "stimulus_internal": "据张三说，这项细节提醒了自己。也就是说，据张三说，这项细节提醒了张三。",
+    "stimulus_external": "说到张三，这项细节提醒了自己。也就是说，说到张三，这项细节提醒了张三。"
+  },
+  {
+    "id": 100,
+    "sentence_internal": "据张三说，这些指标衡量了自己。",
+    "sentence_external": "说到张三，这些指标衡量了自己。",
+    "stimulus_internal": "据张三说，这些指标衡量了自己。也就是说，据张三说，这些指标衡量了张三。",
+    "stimulus_external": "说到张三，这些指标衡量了自己。也就是说，说到张三，这些指标衡量了张三。"
+  }
+]
